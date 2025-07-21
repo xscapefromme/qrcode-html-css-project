@@ -4,9 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Reference/Project](#reference/project)
+  - [Screenshot/Solution](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,11 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
-
-### Screenshot
+### Screenshot/Solution
 <img width="1891" height="931" alt="Screenshot 2025-07-21 at 12 30 56 PM" src="https://github.com/user-attachments/assets/85efd88d-239c-4aef-897a-53743fe97903" />
 
 
