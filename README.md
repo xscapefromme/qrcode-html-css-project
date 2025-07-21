@@ -16,10 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot/Solution
 <img width="1891" height="931" alt="Screenshot 2025-07-21 at 12 30 56 PM" src="https://github.com/user-attachments/assets/85efd88d-239c-4aef-897a-53743fe97903" />
 
-
-### Reference/Project
-/Users/maros/Library/Mobile Documents/com~apple~CloudDocs/html:css projects/qr-code-project/preview.jpg
-
 ### Links
 
 - Solution URL: [Add solution URL here] (https://qrcode-html-css-project-l2q9dcgnc-markos-projects-00898188.vercel.app/)
