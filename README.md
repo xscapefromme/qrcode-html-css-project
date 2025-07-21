@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here] (https://qrcode-html-css-project-l2q9dcgnc-markos-projects-00898188.vercel.app/)
-- Live Site URL: [Add live site URL here]((https://qrcode-html-css-project-l2q9dcgnc-markos-projects-00898188.vercel.app/))
+
+- Live Site URL: [Add live site URL here](https://qrcode-html-css-project-l2q9dcgnc-markos-projects-00898188.vercel.app/)
 
 ## My process
 Starting framing everything through HTML and started to style it through CSS.
