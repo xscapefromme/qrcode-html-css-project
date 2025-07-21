@@ -23,6 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Reference/Project
+/Users/maros/Library/Mobile Documents/com~apple~CloudDocs/html:css projects/qr-code-project/preview.jpg
 
 ### Links
 
